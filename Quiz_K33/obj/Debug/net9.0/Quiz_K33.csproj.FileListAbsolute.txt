@@ -1,0 +1,14 @@
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\bin\Debug\net9.0\Quiz_K33.exe
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\bin\Debug\net9.0\Quiz_K33.deps.json
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\bin\Debug\net9.0\Quiz_K33.runtimeconfig.json
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\bin\Debug\net9.0\Quiz_K33.dll
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\bin\Debug\net9.0\Quiz_K33.pdb
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\Quiz_K33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\Quiz_K33.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\Quiz_K33.AssemblyInfo.cs
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\Quiz_K33.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\Quiz_K33.dll
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\refint\Quiz_K33.dll
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\Quiz_K33.pdb
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\Quiz_K33.genruntimeconfig.cache
+C:\Users\macie\source\repos\Quiz_K33\Quiz_K33\obj\Debug\net9.0\ref\Quiz_K33.dll
